@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.4cd60ef1.chunk.css",
+    "main.js": "/React-App/static/js/main.874f084b.chunk.js",
+    "main.js.map": "/React-App/static/js/main.874f084b.chunk.js.map",
+    "runtime-main.js": "/React-App/static/js/runtime-main.cca162ed.js",
+    "runtime-main.js.map": "/React-App/static/js/runtime-main.cca162ed.js.map",
+    "static/js/2.59dee93b.chunk.js": "/React-App/static/js/2.59dee93b.chunk.js",
+    "static/js/2.59dee93b.chunk.js.map": "/React-App/static/js/2.59dee93b.chunk.js.map",
+    "index.html": "/React-App/index.html",
+    "precache-manifest.aa00d12134e650d2d1efa7658befc6ec.js": "/React-App/precache-manifest.aa00d12134e650d2d1efa7658befc6ec.js",
+    "service-worker.js": "/React-App/service-worker.js",
+    "static/css/main.4cd60ef1.chunk.css.map": "/React-App/static/css/main.4cd60ef1.chunk.css.map",
+    "static/js/2.59dee93b.chunk.js.LICENSE.txt": "/React-App/static/js/2.59dee93b.chunk.js.LICENSE.txt",
+    "static/media/HOME.css": "/React-App/static/media/1.71156fd0.jpg",
+    "static/media/TODOLIST.css": "/React-App/static/media/2.89ccac53.jpg",
+    "static/media/Weather.css": "/React-App/static/media/3.8baf47ae.jpg",
+    "static/media/CRUD.css": "/React-App/static/media/4.31a0178a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca162ed.js",
+    "static/js/2.59dee93b.chunk.js",
+    "static/css/main.4cd60ef1.chunk.css",
+    "static/js/main.874f084b.chunk.js"
+  ]
+}
