@@ -1,0 +1,48 @@
+.navbar{
+    background-color: rgb(73, 73, 212);
+    overflow: hidden;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.navlogo{
+    width: 30%;
+    text-align: left;
+    margin: auto;
+}
+.navlogo a{
+    text-decoration: none;
+
+}
+.navlink{
+    width: 70%;
+    text-align: right;
+    margin: auto;
+}
+.navlink ul a{
+   text-decoration: none;
+}
+.logo{
+    color: white;
+    margin: 2px auto;
+   
+}
+.rlogo{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    padding: 12px 5px;
+    border-radius: 50%;
+}
+.navlist{
+    margin-left: 40px;
+    color: white;
+    cursor: pointer;
+}
+.active{
+    color: red;
+}
+
+
